@@ -23,6 +23,6 @@
       ❗️ Example ❗️
         ⚫️ 625.4 => output 5
         
-    ❓ 625 — number, 4 — exponent
+      ❓ 625 — number, 4 — exponent
     
     ◼️ The rest of the functions work as expected
