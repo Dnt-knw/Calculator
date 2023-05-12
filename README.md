@@ -4,7 +4,7 @@
 
 ### Usage
   
-    ◼️ If you want to use Max/Min features you should write in this formats: 
+    ◼️ If you want to use Max / Min features you should write in this formats: 
       ⚫️ number.number.number
       ⚫️ expression.expression.expression
 
@@ -16,7 +16,7 @@
         ⚫️ 25*4.10*10 => *click max* => output =(100)
         ⚫️ 25*4.10*10 => *click min* => output =(100)
         
-      ❓ . means 'OR'
+      ❓ "." means "OR"
 
     ◼️ If you want to use y√ you should write in this format:
       ⚫️ number.exponent
