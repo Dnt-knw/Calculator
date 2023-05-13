@@ -30,7 +30,7 @@
 
 ### Example
 
-    625.4 => output 5
+    625.4 => *click y√* => output 5
     
 625 — number, 4 — exponent
 
