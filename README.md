@@ -1,17 +1,21 @@
-# Calculator
+# Calculator 🧮
 
-> A powerful engineering calculator that will help you more than once
+> A powerful engineering calculator that will help you more than once 🙌
 
-## Usage
+### See the <a href='https://dnt-knw.github.io/Calculator' target='_blank' title='Click to open the project'>Demo</a> 👁
 
-### If you want to use Max / Min features you should write in this formats
+<img src='./Calculator.gif' alt='calculator' />
+
+## Usage ⌨️
+
+### ❗️ If you want to use Max / Min features you should write in this formats ❗️
 
 <ul>
   <li>number.number.number <br/></li>
   <li>expression.expression.expression <br/></li>
 </ul>
 
-### Examples
+### Examples 👇
 
     3.5.7 => *click max* => output 7
     3.5.7 => *click min* => output 3
@@ -20,224 +24,224 @@
     25*4.10*10 => *click max* => output =(100)
     25*4.10*10 => *click min* => output =(100)
     
-"." means "OR"
+❗️ "." means "OR" ❗️
 
-### If you want to use y√ you should write in this format
+### ❗️ If you want to use y√ you should write in this format ❗️
 
 <ul>
   <li>number.exponent</li>
 </ul>
 
-### Example
+### Example 👇
 
     625.4 => *click y√* => output 5
     
 625 — number, 4 — exponent
 
-## Basic functionality
+## Basic functionality 🔧
 
-### "(" and ")"
+### 📝 "(" and ")" 
 
-Insert brackets
+📜 Insert brackets
 
-### x!
+### 📝 x!
 
-Calculates the factorial of a number
+📜 Calculates the factorial of a number
 
-### fib
+### 📝 fib
 
-Returns the nth Fibonacci number
+📜 Returns the nth Fibonacci number
 
-### π
+### 📝 π
 
-Returns the PI number
+📜 Returns the PI number
 
-### e
+### 📝 e
 
-Returns the Euler's number
+📜 Returns the Euler's number
 
-### min
+### 📝 min
 
-Returns the minimum number or expression
-
-<h3>
-  x<sup>y</sup>
-</h3>
-
-Returns a number x to a power of y
+📜 Returns the minimum number or expression
 
 <h3>
-  10<sup>x</sup>
+  📝 x<sup>y</sup>
 </h3>
 
-Returns the number 10 to a power of x
+📜 Returns a number x to a power of y
 
 <h3>
-  e<sup>x</sup>
+  📝 10<sup>x</sup>
 </h3>
 
-Returns the Euler's number to a power of x
-
-### 1 / x
-
-Returns the division of the number 1 by a number x
+📜 Returns the number 10 to a power of x
 
 <h3>
-  x<sup>2</sup>
+  📝 e<sup>x</sup>
 </h3>
 
-Squares a number x
+📜 Returns the Euler's number to a power of x
+
+### 📝 1 / x
+
+📜 Returns the division of the number 1 by a number x
 
 <h3>
-  2<sup>x</sup>
+  📝 x<sup>2</sup>
 </h3>
 
-Returns the number 2 to a power of x
-
-### max
-
-Returns the maximum number or expression
-
-### √
-
-Returns the square root of a number
-
-### ∛
-
-Returns the cubic root of a number
+📜 Squares a number x
 
 <h3>
-  y<sub>√</sub>
+  📝 2<sup>x</sup>
 </h3>
 
-Returns the root of a number to a power of y
+📜 Returns the number 2 to a power of x
 
-### ln
+### 📝 max
 
-Returns the natural logarithm of a number
+📜 Returns the maximum number or expression
+
+### 📝 √
+
+📜 Returns the square root of a number
+
+### 📝 ∛
+
+📜 Returns the cubic root of a number
 
 <h3>
-  log<sub>2</sub>
+  📝 y<sub>√</sub>
 </h3>
 
-Returns the base 2 logarithm of a number
+📜 Returns the root of a number to a power of y
+
+### 📝 ln
+
+📜 Returns the natural logarithm of a number
 
 <h3>
-  2<sup>nd</sup>
+  📝 log<sub>2</sub>
 </h3>
 
-Opens additional calculator functions
+📜 Returns the base 2 logarithm of a number
 
-### rand
+<h3>
+  📝 2<sup>nd</sup>
+</h3>
 
-Returns a random number from 0 to 1
+📜 Opens additional calculator functions
+
+### 📝 rand
+
+📜 Returns a random number from 0 to 1
 
 <h2>
-  2<sup>nd</sup> functionality
+  2<sup>nd</sup> functionality 🔧
 </h3>
 
-### sin
+### 📝 sin
 
-Returns the sine of a number
+📜 Returns the sine of a number
 
-### cos
+### 📝 cos
 
-Returns the cosine of a number
+📜 Returns the cosine of a number
 
-### tan
+### 📝 tan
 
-Returns the tangent of a number
+📜 Returns the tangent of a number
 
-### ctg
+### 📝 ctg
 
-Returns the cotangent of a number
+📜 Returns the cotangent of a number
 
-### sinh
+### 📝 sinh
 
-Returns the hyperbolic sine of a number
+📜 Returns the hyperbolic sine of a number
 
-### cosh
+### 📝 cosh
 
-Returns the hyperbolic cosine of a number
+📜 Returns the hyperbolic cosine of a number
 
-### tanh
+### 📝 tanh
 
-Returns the hyperbolic tangent of a number
+📜 Returns the hyperbolic tangent of a number
 
 <h3>
-  sin<sup>-1</sup>
+  📝 sin<sup>-1</sup>
 </h3>
 
-Returns the inverse sine of a number
+📜 Returns the inverse sine of a number
 
 <h3>
-  cos<sup>-1</sup>
+  📝 cos<sup>-1</sup>
 </h3>
 
-Returns the inverse cosine of a number
+📜 Returns the inverse cosine of a number
 
 <h3>
-  tan<sup>-1</sup>
+  📝 tan<sup>-1</sup>
 </h3>
 
-Returns the inverse tangent of a number
+📜 Returns the inverse tangent of a number
 
 <h3>
-  ctg<sup>-1</sup>
+  📝 ctg<sup>-1</sup>
 </h3>
 
-Returns the inverse cotangent of a number
+📜 Returns the inverse cotangent of a number
 
 <h3>
-  x<sup>3</sup>
+  📝 x<sup>3</sup>
 </h3>
 
-Returns a number x to the power of 3
+📜 Returns a number x to the power of 3
 
 <h3>
-  3<sup>x</sup>
+  📝 3<sup>x</sup>
 </h3>
 
-Returns the number 3 to a power of x
+📜 Returns the number 3 to a power of x
 
-### ctgh
+### 📝 ctgh
 
-Returns the hyperbolic cotangent of a number
+📜 Returns the hyperbolic cotangent of a number
 
 <h3>
-  sinh<sup>-1</sup>
+  📝 sinh<sup>-1</sup>
 </h3>
 
-Returns the inverse hyperbolic sine of a number
+📜 Returns the inverse hyperbolic sine of a number
 
 <h3>
-  cosh<sup>-1</sup>
+  📝 cosh<sup>-1</sup>
 </h3>
 
-Returns the inverse hyperbolic cosine of a number
+📜 Returns the inverse hyperbolic cosine of a number
 
 <h3>
-  tanh<sup>-1</sup>
+  📝 tanh<sup>-1</sup>
 </h3>
 
-Returns the inverse hyperbolic tangent of a number
+📜 Returns the inverse hyperbolic tangent of a number
 
 <h3>
-  ctgh<sup>-1</sup>
+  📝 ctgh<sup>-1</sup>
 </h3>
 
-Returns the inverse hyperbolic cotangent of a number
+📜 Returns the inverse hyperbolic cotangent of a number
 
 <h3>
-  log<sub>10</sub>
+  📝 log<sub>10</sub>
 </h3>
 
-Returns the base 10 logarithm of a number
+📜 Returns the base 10 logarithm of a number
 
-### rad
+### 📝 rad
 
-Allows you to calculate the sines, cosines, tangents and cotangents in radians
+📜 Allows you to calculate the sines, cosines, tangents and cotangents in radians
 
-### deg
+### 📝 deg
 
-Allows you to calculate the sines, cosines, tangents and cotangents in degrees
+📜 Allows you to calculate the sines, cosines, tangents and cotangents in degrees
